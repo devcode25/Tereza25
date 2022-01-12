@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Training and development
 
-- 💬 I am currently studying Backend Development
+- 💬 I am currently studying Backend Development, Javascript e Mongodb.
 
 - ❤️ I love coffee, music and travel
 
